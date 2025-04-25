@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://cotonebrlesmicoope.com.gt/logo.png](https://cotonebrlesmicoope.com.gt/wp-content/themes/yootheme/cache/7c/LOGO-TITULO-WP-7c7c6e35.webp)" alt="Logo Cooperativa COTONEB" width="180" />
+  <img src="https://cloud.cotoapps.com/index.php/s/A479jejrZHWp9gK/download/logo%20contorno.png" alt="Logo Cooperativa COTONEB" width="180" />
 </div>
 
 # 🏢 Bienvenido a **cotodevs**
